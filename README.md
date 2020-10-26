@@ -1,1 +1,2 @@
 # Body-Mass-Index-Calculator
+In this project, I created a Java application that calculates workout target heart rate and body mass index. The user interacts with the program via graphical user interface represented by frame, panels, dropdown boxes, labels, and textboxes. The first part of the interface has heart rate calculator based on the age and intensity provided by the user. The second part calculates the BMI based on the height and weight provided by the user. 
